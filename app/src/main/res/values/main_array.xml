@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="drawer_list">
+        <item>Политика Южной Кореи</item>
+        <item>Корейская поп музыка</item>
+        <item>Туризм</item>
+        <item>Кино и кинотеатры</item>
+        <item>Праздники и традиции</item>
+        <item>Технологии</item>
+    </string-array>
+
+    <string-array name="politika">
+        <item>Южная Корея|politika.png|politika.html</item>
+        <item>Ким Дэ Чжун|kimdejun.png|kim.html</item>
+        <item>Но Му Хён|nomuhen.png|nomuhen.html</item>
+        <item>Ко Гон|kogon.png|kogon.html</item>
+        <item>Ли Мён Бак|limenbak.png|limen.html</item>
+        <item>Пак Кын Хе|pakkinhe.png|pak.html</item>
+        <item>Хван Гёан|hvangean.png|hvan.html</item>
+        <item>Мун Чже Ин|munjein.png|munjein.html</item>
+        <item>Юн Сок Ёль|yunsokel.png|yun.html</item>
+    </string-array>
+
+    <string-array name="kpop">
+        <item>Кпоп|kpop.png|kpop.html</item>
+        <item>BTS|bts.png|bts.html</item>
+        <item>BlackPink|blackpink.png|blackpink.html</item>
+        <item>StrayKids|straykids.png|stary.html</item>
+    </string-array>
+
+    <string-array name="turism">
+        <item>Туризм|turism.png|turism.html</item>
+        <item>Сеул|seul.png|seul.html</item>
+        <item>Кёнджу|kenju.png|ken.html</item>
+        <item>Пусан|pusan.png|pusan.html</item>
+        <item>Остров Чеджу|ostrov.png|ostrov.html</item>
+        <item>Горнолыжные Курорты|gorno.png|gorno.html</item>
+    </string-array>
+
+    <string-array name="kino">
+        <item>Кино и кинотеатры|kino.png|kino.html</item>
+        <item>Кинотеатр CGV|cgv.png|cvg.html</item>
+        <item>LotteCinema|lotte.png|lotte.html</item>
+    </string-array>
+
+    <string-array name="prazdnik">
+        <item>Особенности национальной культуры|tridizee.png|osob.html</item>
+        <item>Новый год|ng.png|ng.html</item>
+        <item>День защиты детей|deti.png|deti.html</item>
+        <item>День рождения Будды|budda.png|budda.html</item>
+        <item>День освобождения Кореи|osvobod.png|osvo.html</item>
+        <item>Чхусок(День урожая)|urozai.png|urozai.html</item>
+    </string-array>
+
+    <string-array name="tecknology">
+        <item>Компании|tecknology.png|teck.html</item>
+        <item>Сеточная панель|grav.png|grav.html</item>
+        <item>LG Prada|lg.png|lg.html</item>
+        <item>5G|5g.png|5g.html</item>
+        <item>Samsung Galaxy S|lte.png|lte.html</item>
+        <item>Дисплей Retina|retina.png|retina.html</item>
+        <item>Гибкая батарея|batareya.png|batareya.html</item>
+        <item>Память с высокой пропускной способностью|pamat.png|pamat.html</item>
+        <item>Онлайн-электромобиль|avtomobil.png|avtomobil.html</item>
+    </string-array>
+
+</resources>
